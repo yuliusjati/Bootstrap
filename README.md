@@ -1,6 +1,7 @@
 # Bootstrap
 # hasil 1
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/Bootstrap%201.html)
+terjadi perbedaan antara 2 teks yaitu teks pertama yang terwarnai adalah tulisannya sedangkan teks yang ke-2 yaitu teks akan terblok oleh warna
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/hasil1.PNG)
 # hasil 2 
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/Bootstrap%202.html)
