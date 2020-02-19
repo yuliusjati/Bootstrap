@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initialscale=1.0">
+    <title>Bootstrap Modal</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h5>Bootstrap Modal</h5>
+      <button type="button" class="btn btn-success" data-toggle="modal" data-target="#largeModal">Large Modal</button>
+      <button type="button" class="btn btn-info" data-toggle="modal" data-target="#mediumModal">Medium Modal</button>
+      <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#smallModal">Small Modal</button>
+    </div>
+    <div class="modal fade" id="largeModal">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header bg-success text-white">
+            <h4>Large Modal</h4>
+            <span class="close" data-dismiss="modal">&times;</span>
+          </div>
+          <div class="modal-body">
+            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-sm btn-success">Save</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="mediumModal">
+      <div class="modal-dialog modal-md">
+        <div class="modal-content">
+          <div class="modal-header bg-info text-white">
+            <h4>Medium Modal</h4>
+            <span class="close" data-dismiss="modal">&times;</span>
+          </div>
+          <div class="modal-body">
+            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-sm btn-info">Save</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="smallModal">
+      <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+          <div class="modal-header bg-danger text-white">
+            <h4>Small Modal</h4>
+            <span class="close" data-dismiss="modal">&times;</span>
+          </div>
+          <div class="modal-body">
+            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-sm btn-danger">Save</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
