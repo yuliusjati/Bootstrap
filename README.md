@@ -1,11 +1,11 @@
 # Bootstrap
 # hasil 1
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/Bootstrap%201.html)
-terjadi perbedaan antara 2 teks yaitu teks pertama yang terwarnai adalah tulisannya sedangkan teks yang ke-2 yaitu teks akan terblok oleh warna
+![AltText](terjadi perbedaan antara 2 teks yaitu teks pertama yang terwarnai adalah tulisannya sedangkan teks yang ke-2 yaitu teks akan terblok oleh warna)
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/hasil1.PNG)
 # hasil 2 
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/Bootstrap%202.html)
-jadi pada gambar dibawah yaitu teks akan mengecil sesuai dengan ukuran layar dengan posisi yang sudah disetting
+![AltText]![AltText](jadi pada gambar dibawah yaitu teks akan mengecil sesuai dengan ukuran layar dengan posisi yang sudah disetting)
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/hasil2.PNG)
 # hasil 3
 ![AltText](https://github.com/yuliusjati/Bootstrap/blob/master/Bootstrap%203.html)
